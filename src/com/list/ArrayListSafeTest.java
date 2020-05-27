@@ -7,17 +7,17 @@ import java.util.concurrent.CopyOnWriteArrayList;
  *
  * ArrayList 线程安全安全问题演示及解决
  */
-public class ArrayListTest {
+public class ArrayListSafeTest {
 
       public  static  void  main(String[] args){
            //线程不安全
 //          ArrayListTest.unSafeOperation();
           //线程安全 通过 Collections
-          ArrayListTest.toSafeByCollections();
+          ArrayListSafeTest.toSafeByCollections();
           //通过CopyOnWriteArrayList 实现
-          ArrayListTest.toSafeByCopyOnWrite();
+          ArrayListSafeTest.toSafeByCopyOnWrite();
           //通过Vector 实现线程安全
-          ArrayListTest.toSafeByVector();
+          ArrayListSafeTest.toSafeByVector();
 
 
 
