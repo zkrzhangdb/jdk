@@ -686,7 +686,7 @@ public abstract class AbstractQueuedSynchronizer
                 if (ws == Node.SIGNAL) {
                     if (!compareAndSetWaitStatus(h, Node.SIGNAL, 0))
                         continue;            // loop to recheck cases
-                    unparkSuccessor(h);
+                    unparkSuccessor(h); //唤醒
                 }
                 else if (ws == 0 &&
                          !compareAndSetWaitStatus(h, 0, Node.PROPAGATE))
@@ -829,7 +829,7 @@ public abstract class AbstractQueuedSynchronizer
 
     /**
      * Convenience method to park and then check if interrupted
-     *
+     *   挂起当前线程
      * @return {@code true} if interrupted
      */
     private final boolean parkAndCheckInterrupt() {
@@ -982,6 +982,7 @@ public abstract class AbstractQueuedSynchronizer
         final Node node = addWaiter(Node.SHARED);
         boolean failed = true;
         try {
+            //自旋
             for (;;) {
                 final Node p = node.predecessor();
                 if (p == head) {
@@ -993,6 +994,7 @@ public abstract class AbstractQueuedSynchronizer
                         return;
                     }
                 }
+                System.out.println("自选");
                 if (shouldParkAfterFailedAcquire(p, node) &&
                     parkAndCheckInterrupt())
                     throw new InterruptedException();
