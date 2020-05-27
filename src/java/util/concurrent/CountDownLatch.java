@@ -175,12 +175,13 @@ public class CountDownLatch {
             //state 不等于0,去获取锁，等于0 获取锁失败
             return (getState() == 0) ? 1 : -1;
         }
-
+       //重写tryReleaseShared 方法
         protected boolean tryReleaseShared(int releases) {
             // Decrement count; signal when transition to zero
             //
             for (;;) {
                 int c = getState();
+                //等于0 释放锁失败
                 if (c == 0)
                     return false;
                 int nextc = c-1;
@@ -233,7 +234,7 @@ public class CountDownLatch {
      *         while waiting
      */
     public void await() throws InterruptedException {
-        System.out.println("000");
+        System.out.println("0000000000");
         sync.acquireSharedInterruptibly(1);
     }
 
