@@ -1,0 +1,21 @@
+
+l
+java:S1206ï"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ
+:
+java:S1948d"$Make "al" transient or serializable.(å„äá
+t
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(“õãûÿÿÿÿ
+t
+java:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ­‘Ôùÿÿÿÿ
+t
+java:S2293{"YReplace the type specification in this constructor call with the diamond operator ("<>").(“õãûÿÿÿÿ
+V
+java:S1161·":Add the "@Override" annotation above this method signature(‚Õ°ªÿÿÿÿÿ
+R
+java:S1119€";Refactor the code to remove this label and the need for it.(è±ê¤
+Q
+java:S1161":Add the "@Override" annotation above this method signature(µ³‹¬
+Q
+java:S1161“":Add the "@Override" annotation above this method signature(ïåê
+V
+java:S1161¦":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ

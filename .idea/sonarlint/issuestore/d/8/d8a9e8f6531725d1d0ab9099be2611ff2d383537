@@ -1,0 +1,6 @@
+
+X	java:S125	"<This block of commented-out lines of code should be removed.(†š‡û8ø§ôâ™.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(íÿ‹¬ÿÿÿÿÿ
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ôÄöâ™.
+X	java:S125"<This block of commented-out lines of code should be removed.(¬—¾ë8ÁÈòâ™.

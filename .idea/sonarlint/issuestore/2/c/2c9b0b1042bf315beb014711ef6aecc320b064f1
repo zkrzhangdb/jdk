@@ -1,0 +1,15 @@
+
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+_
+java:S2147"DCombine this catch with the one at line 14, which has the same body.(†«”Ïüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã»þ®úÿÿÿÿ
+’
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Š¹Ÿøýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øú¼Æ
+ 
+java:S1130"„Remove the declaration of thrown exception 'java.util.concurrent.BrokenBarrierException', as it cannot be thrown from method's body.(Š¹Ÿøýÿÿÿÿ
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

@@ -1,0 +1,96 @@
+
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(åæİÌúÿÿÿÿ
+\	java:S112•"FDefine and throw a dedicated exception instead of using a generic one.(Âğğ
+G
+java:S2160è	"+Override the "equals" method in this class.(¾ıË™ûÿÿÿÿ
+Q
+java:S1161’":Add the "@Override" annotation above this method signature(µ³‹¬
+p
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(£Íô÷
+J
+java:S1121§".Extract the assignment out of this expression.(ó›‚¶üÿÿÿÿ
+J
+java:S1121á".Extract the assignment out of this expression.(ó›‚¶üÿÿÿÿ
+j
+java:S2975­"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ
+p
+java:S2293Ó	"YReplace the type specification in this constructor call with the diamond operator ("<>").(É °¾
+V
+java:S1161º":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
+p
+java:S2293ä
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø› ä
+Q
+java:S1161†":Add the "@Override" annotation above this method signature(ïåê
+W
+java:S1119";Refactor the code to remove this label and the need for it.(ïÏïóûÿÿÿÿ
+J
+java:S1121±".Extract the assignment out of this expression.(ó›‚¶üÿÿÿÿ
+Q
+java:S1161­":Add the "@Override" annotation above this method signature(é±Şâ
+A
+java:S3077d"&Use an "AtomicReferenceArray" instead.(²‘Ğÿıÿÿÿÿ
+J
+java:S1121¼".Extract the assignment out of this expression.(ó›‚¶üÿÿÿÿ
+p
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(Üùºû
+Q
+java:S1161ÿ":Add the "@Override" annotation above this method signature(µ³‹¬
+K
+java:S11915"5Use classes from the Java API instead of Sun classes.(Àãé
+p
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(Üùºû
+V
+java:S1161•":Add the "@Override" annotation above this method signature(à½éòúÿÿÿÿ
+V
+java:S1161»
+":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ
+V
+java:S1161ê
+":Add the "@Override" annotation above this method signature(Î‹Ê÷ıÿÿÿÿ
+O
+java:S1197ó"8Move the array designator from the variable to the type.(ÿèŠ’
+Q
+java:S1161«":Add the "@Override" annotation above this method signature(é±Şâ
+J
+java:S1121‰".Extract the assignment out of this expression.(ó›‚¶üÿÿÿÿ
+V
+java:S1161™":Add the "@Override" annotation above this method signature(à½éòúÿÿÿÿ
+Q
+java:S1161È
+":Add the "@Override" annotation above this method signature(‡ğÎ
+C
+java:S2388Ø
+",Prefix this call to "indexOf" with "super.".(¹¸Æ
+E
+java:S1125æ")Remove the literal "false" boolean value.(¥õ¡Ğüÿÿÿÿ
+o
+java:S2293ÿ
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯¾½=
+`
+java:S1192Ğ"IDefine a constant instead of duplicating this literal ", Size: " 3 times.(ç…Šç
+V
+java:S1161¬
+":Add the "@Override" annotation above this method signature(İÏç´øÿÿÿÿ
+E
+java:S1125")Remove the literal "false" boolean value.(±†¥Óúÿÿÿÿ
+_
+java:S1192Ï"HDefine a constant instead of duplicating this literal "Index: " 5 times.(·“ûê
+W
+java:S1126”"AReplace this if-then-else statement by a single return statement.(â™ÔR
+V
+java:S1161‡
+":Add the "@Override" annotation above this method signature(İìÆíøÿÿÿÿ
+P
+java:S1161ß
+":Add the "@Override" annotation above this method signature(¹æá5
+o
+java:S2293ò
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹£ä	
+Q
+java:S1161õ":Add the "@Override" annotation above this method signature(ïåê
+V
+java:S1161æ":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ
+Q
+java:S1161ø
+":Add the "@Override" annotation above this method signature(¾ 

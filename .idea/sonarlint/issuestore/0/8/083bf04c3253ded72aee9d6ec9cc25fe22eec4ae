@@ -1,0 +1,323 @@
+
+N
+java:S1121".Extract the assignment out of this expression.(áÒî…ùÿÿÿÿ8«¤ú¯¢.
+>
+java:S1659"$Declare "newThr" on a separate line.(üñ­8«¤ú¯¢.
+:
+java:S1659"Declare "n" on a separate line.(¹Ùô8«¤ú¯¢.
+n
+java:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(¡Éº”úÿÿÿÿ8«¤ú¯¢.
+;
+java:S1659" Declare "mc" on a separate line.(¯ŸÎ8«¤ú¯¢.
+:
+java:S1659"Declare "k" on a separate line.(íµÛ8«¤ú¯¢.
+:
+java:S1659"Declare "n" on a separate line.(œ¶Ö8«¤ú¯¢.
+;
+java:S1659" Declare "mc" on a separate line.(¯ŸÎ8«¤ú¯¢.
+G
+java:S1121".Extract the assignment out of this expression.(Ùÿ÷°øÿÿÿÿ
+I
+java:S1121".Extract the assignment out of this expression.(ø°¼ˆ8«¤ú¯¢.
+@
+java:S1659" Declare "tl" on a separate line.(Àùù¤üÿÿÿÿ8«¤ú¯¢.
+?
+java:S1659"Declare "e" on a separate line.(ŸİÊ×ıÿÿÿÿ8«¤ú¯¢.
+U
+java:S1161":Add the "@Override" annotation above this method signature(ÛÆëô8«¤ú¯¢.
+:
+java:S1659" Declare "pl" on a separate line.(·¬óx8«¤ú¯¢.
+9
+java:S1659"Declare "v" on a separate line.(œúÅ!8«¤ú¯¢.
+N
+java:S1121".Extract the assignment out of this expression.(áÒî…ùÿÿÿÿ8«¤ú¯¢.
+9
+java:S1659" Declare "hc" on a separate line.(…ÃÁüÿÿÿÿ
+@
+java:S1659" Declare "lo" on a separate line.(Ö£¶ìÿÿÿÿÿ8«¤ú¯¢.
+w	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÕÌŞùÿÿÿÿ8«¤ú¯¢.
+D
+java:S1125")Remove the literal "false" boolean value.(›Ó·Î8«¤ú¯¢.
+@
+java:S1659" Declare "ph" on a separate line.(Î’­ùÿÿÿÿ8«¤ú¯¢.
+;
+java:S1659" Declare "sr" on a separate line.(ñÁ™8«¤ú¯¢.
+:
+java:S1659"Declare "i" on a separate line.(œ¶Ö8«¤ú¯¢.
+I
+java:S1121".Extract the assignment out of this expression.(¡ç…8«¤ú¯¢.
+?
+java:S1659"$Declare "loTail" on a separate line.(¶í ³8«¤ú¯¢.
+9
+java:S1659" Declare "pr" on a separate line.(Ï¨õíıÿÿÿÿ
+<
+java:S1659""Declare "root" on a separate line.(ÇÛîJ8«¤ú¯¢.
+D
+java:S1125")Remove the literal "false" boolean value.(°™à8«¤ú¯¢.
+D
+java:S1659"$Declare "loTail" on a separate line.(œ¸ë•şÿÿÿÿ8«¤ú¯¢.
+@
+java:S1659" Declare "ts" on a separate line.(ĞµÃĞüÿÿÿÿ8«¤ú¯¢.
+N
+java:S1121".Extract the assignment out of this expression.(áÒî…ùÿÿÿÿ8«¤ú¯¢.
+D
+java:S1905")Remove this unnecessary cast to "Node[]".(êµ¸Ğ8«¤ú¯¢.
+w	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(è„àÿùÿÿÿÿ8«¤ú¯¢.
+k	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Õ‘‹­
+N
+java:S1121".Extract the assignment out of this expression.(ùõ©‡ûÿÿÿÿ8«¤ú¯¢.
+8
+java:S1659"Declare "p" on a separate line.(ĞµÃĞüÿÿÿÿ
+N
+java:S1121".Extract the assignment out of this expression.(Æ¹°¼şÿÿÿÿ8«¤ú¯¢.
+@
+java:S1659" Declare "sl" on a separate line.(‰ñÈİúÿÿÿÿ8«¤ú¯¢.
+w	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(½ÆãÛıÿÿÿÿ8«¤ú¯¢.
+I
+java:S1121".Extract the assignment out of this expression.(Ê–á¨8«¤ú¯¢.
+Z
+java:S1161":Add the "@Override" annotation above this method signature(àà…åúÿÿÿÿ8«¤ú¯¢.
+@
+java:S1659" Declare "ch" on a separate line.(©ß¹‰øÿÿÿÿ8«¤ú¯¢.
+d
+java:S3358"DExtract this nested ternary operation into an independent statement.(ûá¤óûÿÿÿÿ8«¤ú¯¢.
+I
+java:S1121".Extract the assignment out of this expression.(€¬¡‘8«¤ú¯¢.
+?
+java:S1659"Declare "n" on a separate line.(ºÏåÒùÿÿÿÿ8«¤ú¯¢.
+H	java:S108")Either remove or fill this block of code.(ÃâÕ—şÿÿÿÿ8«¤ú¯¢.
+N
+java:S1121".Extract the assignment out of this expression.(áÒî…ùÿÿÿÿ8«¤ú¯¢.
+i
+java:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(èçÅø8«¤ú¯¢.
+N
+java:S1161":Add the "@Override" annotation above this method signature(¨”Õı
+:
+java:S1659"Declare "k" on a separate line.(±Œ÷Ö8«¤ú¯¢.
+N
+java:S1121".Extract the assignment out of this expression.(Æ¹°¼şÿÿÿÿ8«¤ú¯¢.
+N
+java:S1121".Extract the assignment out of this expression.(˜ö–ğøÿÿÿÿ8«¤ú¯¢.
+<
+java:S1659"!Declare "dir" on a separate line.(Ê¿æ‘8«¤ú¯¢.
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(Àãé8«¤ú¯¢.
+:
+java:S1659"Declare "k" on a separate line.(±Œ÷Ö8«¤ú¯¢.
+U
+java:S1161":Add the "@Override" annotation above this method signature(ğ¸¯¡8«¤ú¯¢.
+d
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ8«¤ú¯¢.
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸÃÖÀ8«¤ú¯¢.
+A
+java:S1659"!Declare "mid" on a separate line.(Ö£¶ìÿÿÿÿÿ8«¤ú¯¢.
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ÒŸƒİ8«¤ú¯¢.
+Z
+java:S1161":Add the "@Override" annotation above this method signature(Ÿà¯±ûÿÿÿÿ8«¤ú¯¢.
+:
+java:S1659"Declare "k" on a separate line.(±Œ÷Ö8«¤ú¯¢.
+;
+java:S1659" Declare "hi" on a separate line.(¯ŸÎ8«¤ú¯¢.
+@
+java:S1659" Declare "tl" on a separate line.(¾Õ”Ìûÿÿÿÿ8«¤ú¯¢.
+?
+java:S1659"Declare "i" on a separate line.(ºÏåÒùÿÿÿÿ8«¤ú¯¢.
+w	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.( ³¢Ìşÿÿÿÿ8«¤ú¯¢.
+?
+java:S1659"Declare "k" on a separate line.(Í¶­øÿÿÿÿ8«¤ú¯¢.
+;
+java:S1659" Declare "sr" on a separate line.(ã•±û8«¤ú¯¢.
+G
+java:S1121".Extract the assignment out of this expression.(û›µüÿÿÿÿ
+:
+java:S1659"Declare "e" on a separate line.(¬‘œù8«¤ú¯¢.
+I
+java:S1121".Extract the assignment out of this expression.(ğÃÜê8«¤ú¯¢.
+w	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.( ³¢Ìşÿÿÿÿ8«¤ú¯¢.
+G
+java:S1121".Extract the assignment out of this expression.(åˆ»·ùÿÿÿÿ
+;
+java:S1659" Declare "mc" on a separate line.(¯ŸÎ8«¤ú¯¢.
+>
+java:S1659"#Declare "index" on a separate line.(¬‘œù8«¤ú¯¢.
+A
+java:S1659"!Declare "mid" on a separate line.(Ö£¶ìÿÿÿÿÿ8«¤ú¯¢.
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(§Õîª8«¤ú¯¢.
+w	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(û©¡ÿúÿÿÿÿ8«¤ú¯¢.
+I
+java:S1121".Extract the assignment out of this expression.(Ñ‡‹à8«¤ú¯¢.
+w	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(™¦ÀŸøÿÿÿÿ8«¤ú¯¢.
+@
+java:S1659" Declare "rl" on a separate line.(ê¾ˆùûÿÿÿÿ8«¤ú¯¢.
+;
+java:S1659" Declare "pk" on a separate line.(Ê¿æ‘8«¤ú¯¢.
+G
+java:S1121".Extract the assignment out of this expression.(ŒÃÖ²øÿÿÿÿ
+d
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ8«¤ú¯¢.
+:
+java:S1659" Declare "rl" on a separate line.(ÇÛîJ8«¤ú¯¢.
+;
+java:S1659" Declare "pp" on a separate line.(Ú»Òâ8«¤ú¯¢.
+T
+java:S1161":Add the "@Override" annotation above this method signature(àÍèt8«¤ú¯¢.
+;
+java:S1659" Declare "hi" on a separate line.(¯ŸÎ8«¤ú¯¢.
+_
+java:S3358"DExtract this nested ternary operation into an independent statement.(Œúèë8«¤ú¯¢.
+w	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(‘–Ø‚úÿÿÿÿ8«¤ú¯¢.
+9
+java:S1659" Declare "tb" on a separate line.(ÂİÅ‡úÿÿÿÿ
+;
+java:S1659" Declare "ph" on a separate line.(Ç€Ñ˜8«¤ú¯¢.
+C
+java:S1659")Declare "replacement" on a separate line.(·¬óx8«¤ú¯¢.
+;
+java:S1659" Declare "pk" on a separate line.(Ç€Ñ˜8«¤ú¯¢.
+I
+java:S1121".Extract the assignment out of this expression.(ÿà°‡8«¤ú¯¢.
+I
+java:S1121".Extract the assignment out of this expression.(¸Û‚Ï8«¤ú¯¢.
+3
+java:S1659"Declare "p" on a separate line.(¹Ùô
+F
+java:S1659"&Declare "oldValue" on a separate line.(½öŒìÿÿÿÿÿ8«¤ú¯¢.
+n
+java:S2272"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Ûò‡ùÿÿÿÿ8«¤ú¯¢.
+@
+java:S1659" Declare "lo" on a separate line.(Ö£¶ìÿÿÿÿÿ8«¤ú¯¢.
+N
+java:S1121".Extract the assignment out of this expression.(»ëñûÿÿÿÿ8«¤ú¯¢.
+•
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¥‰‚š
+>
+java:S1659"#Declare "index" on a separate line.(¹Ùô8«¤ú¯¢.
+8
+java:S1659"Declare "q" on a separate line.(Ï¨õíıÿÿÿÿ
+A
+java:S1659"!Declare "mid" on a separate line.(Ö£¶ìÿÿÿÿÿ8«¤ú¯¢.
+U
+java:S1161":Add the "@Override" annotation above this method signature(÷ƒµ—8«¤ú¯¢.
+d
+java:S3358"DExtract this nested ternary operation into an independent statement.(†ÁŸüÿÿÿÿ8«¤ú¯¢.
+d
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ8«¤ú¯¢.
+:
+java:S1659" Declare "pr" on a separate line.(·¬óx8«¤ú¯¢.
+@
+java:S1659" Declare "pp" on a separate line.(ê¾ˆùûÿÿÿÿ8«¤ú¯¢.
+3
+java:S1659"Declare "e" on a separate line.(íµÛ
+U
+java:S1161":Add the "@Override" annotation above this method signature(ß™Í8«¤ú¯¢.
+Z
+java:S1161":Add the "@Override" annotation above this method signature(•î’üÿÿÿÿ8«¤ú¯¢.
+I
+java:S1121".Extract the assignment out of this expression.(¡ç…8«¤ú¯¢.
+C
+java:S1659"#Declare "first" on a separate line.(ºÏåÒùÿÿÿÿ8«¤ú¯¢.
+8
+java:S1659"$Declare "hiTail" on a separate line.(‚™½Ñ
+I
+java:S1121".Extract the assignment out of this expression.(¸Û‚Ï8«¤ú¯¢.
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÁÆ±Ã8«¤ú¯¢.
+@
+java:S1659" Declare "tl" on a separate line.(‹ç¯Åûÿÿÿÿ8«¤ú¯¢.
+Z
+java:S1161":Add the "@Override" annotation above this method signature(ˆ¶÷ºşÿÿÿÿ8«¤ú¯¢.
+G
+java:S1121".Extract the assignment out of this expression.(ŒÃÖ²øÿÿÿÿ
+G
+java:S1121".Extract the assignment out of this expression.(ÌÉÒÃüÿÿÿÿ
+?
+java:S1659"Declare "n" on a separate line.(ºÏåÒùÿÿÿÿ8«¤ú¯¢.
+@
+java:S1659" Declare "lo" on a separate line.(Ö£¶ìÿÿÿÿÿ8«¤ú¯¢.
+I
+java:S1905")Remove this unnecessary cast to "Node[]".(Øª¬ûÿÿÿÿ8«¤ú¯¢.
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û8«¤ú¯¢.
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ŸÃÖÀ8«¤ú¯¢.
+Z
+java:S1161":Add the "@Override" annotation above this method signature(Îå®åıÿÿÿÿ8«¤ú¯¢.
+?
+java:S1659"Declare "n" on a separate line.(ºÏåÒùÿÿÿÿ8«¤ú¯¢.
+w	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(É„”Ÿüÿÿÿÿ8«¤ú¯¢.
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û8«¤ú¯¢.
+C
+java:S1659"#Declare "first" on a separate line.(ºÏåÒùÿÿÿÿ8«¤ú¯¢.
+n
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ8«¤ú¯¢.
+w	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(òŒöÿÿÿÿÿ8«¤ú¯¢.
+@
+java:S1659" Declare "tr" on a separate line.(‹ç¯Åûÿÿÿÿ8«¤ú¯¢.
+š
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ö¶’ùÿÿÿÿ
+3
+java:S1659"Declare "p" on a separate line.(œ¶Ö
+p	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(òæ®úÿÿÿÿ
+w	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(è„àÿùÿÿÿÿ8«¤ú¯¢.
+9
+java:S1659" Declare "tn" on a separate line.(ÂİÅ‡úÿÿÿÿ
+?
+java:S1659"Declare "i" on a separate line.(ºÏåÒùÿÿÿÿ8«¤ú¯¢.
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(å˜’á8«¤ú¯¢.
+w	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÕÌŞùÿÿÿÿ8«¤ú¯¢.
+H	java:S108")Either remove or fill this block of code.(ÃâÕ—şÿÿÿÿ8«¤ú¯¢.
+6
+java:S1659""Declare "pred" on a separate line.(İÑà½
+?
+java:S1659"Declare "k" on a separate line.(ŸİÊ×ıÿÿÿÿ8«¤ú¯¢.
+8
+java:S1659"Declare "t" on a separate line.(ĞµÃĞüÿÿÿÿ
+:
+java:S1659"Declare "n" on a separate line.(íµÛ8«¤ú¯¢.
+>
+java:S1659"#Declare "first" on a separate line.(íµÛ8«¤ú¯¢.
+?
+java:S1659"Declare "i" on a separate line.(ºÏåÒùÿÿÿÿ8«¤ú¯¢.
+¡
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿û»Ïÿÿÿÿÿ8«¤ú¯¢.
+=
+java:S1659"$Declare "hiTail" on a separate line.(¡×üÊûÿÿÿÿ
+F
+java:S2160"+Override the "equals" method in this class.(Ùß“8«¤ú¯¢.
+r
+java:S2259"R"NullPointerException" will be thrown when invoking method "compareComparables()".(ª¥è úÿÿÿÿ8«¤ú¯¢.
+Z
+java:S1161":Add the "@Override" annotation above this method signature(Ë’ñÿÿÿÿÿ8«¤ú¯¢.
+I
+java:S1121".Extract the assignment out of this expression.(¡ç…8«¤ú¯¢.
+G
+java:S1121".Extract the assignment out of this expression.(È½šÍúÿÿÿÿ
+@
+java:S1659" Declare "as" on a separate line.(ĞµÃĞüÿÿÿÿ8«¤ú¯¢.
+N
+java:S1121".Extract the assignment out of this expression.(Ñ¸µşÿÿÿÿ8«¤ú¯¢.
+d
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ8«¤ú¯¢.
+G
+java:S1121".Extract the assignment out of this expression.(ŒÃÖ²øÿÿÿÿ
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(Ï¸ÁÖ8«¤ú¯¢.
+I
+java:S1121".Extract the assignment out of this expression.(«µêö8«¤ú¯¢.
+;
+java:S1659" Declare "hi" on a separate line.(¯ŸÎ8«¤ú¯¢.
+N
+java:S1121".Extract the assignment out of this expression.(£ëÜüÿÿÿÿ8«¤ú¯¢.
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(§Õîª8«¤ú¯¢.
+I
+java:S1121".Extract the assignment out of this expression.(ÿà°‡8«¤ú¯¢.
+;
+java:S1659" Declare "lr" on a separate line.(Ú»Òâ8«¤ú¯¢.
+?
+java:S1659"Declare "v" on a separate line.(‚òÇàùÿÿÿÿ8«¤ú¯¢.
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û8«¤ú¯¢.
+?
+java:S1659"Declare "v" on a separate line.(ŸİÊ×ıÿÿÿÿ8«¤ú¯¢.
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(šåÅ­8«¤ú¯¢.
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¿Ê²û8«¤ú¯¢.
+d
+java:S2583"DChange this condition so that it does not always evaluate to "false"(Í¶¬Ñúÿÿÿÿ8«¤ú¯¢.
+C
+java:S1659"#Declare "first" on a separate line.(ºÏåÒùÿÿÿÿ8«¤ú¯¢.

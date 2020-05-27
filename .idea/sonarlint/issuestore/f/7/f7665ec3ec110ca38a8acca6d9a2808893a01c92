@@ -1,0 +1,7 @@
+
+K
+java:S1191%"5Use classes from the Java API instead of Sun classes.(éª‚€
+`	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(¨ßÕÂùÿÿÿÿ
+s
+java:S4144t"]Update this method so that its implementation is not identical to "compareAndSet" on line 98.(‘ºð•
+o	java:S1156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ãñÁÒ

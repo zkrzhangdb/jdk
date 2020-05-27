@@ -1,0 +1,28 @@
+
+8
+java:S1214~""Move constants to a class or enum.(çŞÔ 
+B
+java:S1659…"+Declare "REF_getStatic" on a separate line.(Ö±ƒû
+F
+java:S1659†"*Declare "REF_putField" on a separate line.(Šü™Şøÿÿÿÿ
+G
+java:S1659‡"+Declare "REF_putStatic" on a separate line.(ù»Ù³úÿÿÿÿ
+F
+java:S1659ˆ"/Declare "REF_invokeVirtual" on a separate line.(âÊ«»
+J
+java:S1659‰".Declare "REF_invokeStatic" on a separate line.(öĞìºûÿÿÿÿ
+F
+java:S1659Š"/Declare "REF_invokeSpecial" on a separate line.(‘İîÈ
+I
+java:S1659‹"2Declare "REF_newInvokeSpecial" on a separate line.(Ë¶Ú¸
+M
+java:S1659Œ"1Declare "REF_invokeInterface" on a separate line.(Ûğ“ùÿÿÿÿ
+u	java:S115„"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ë…ıÿÿÿÿ
+p	java:S115…"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ö±ƒû
+u	java:S115†"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Šü™Şøÿÿÿÿ
+u	java:S115‡"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ù»Ù³úÿÿÿÿ
+p	java:S115ˆ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(âÊ«»
+u	java:S115‰"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(öĞìºûÿÿÿÿ
+p	java:S115Š"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‘İîÈ
+p	java:S115‹"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ë¶Ú¸
+u	java:S115Œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ûğ“ùÿÿÿÿ
